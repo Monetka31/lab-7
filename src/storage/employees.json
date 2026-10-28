@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Иванов Иван", "email": "ivanov@example.com", "department": "it" },
+    { "id": 2, "name": "Смирнова Анна", "email": "smirnova@example.com", "department": "sales" },
+    { "id": 3, "name": "Петров Олег", "email": "petrov@example.com", "department": "it" },
+    { "id": 4, "name": "Кузнецова Мария", "email": "kuznetsova@example.com", "department": "hr" },
+    { "id": 5, "name": "Фёдоров Дмитрий", "email": "fedorov@example.com", "department": "finance" },
+    { "id": 6, "name": "Васильева Елена", "email": "vasilieva@example.com", "department": "sales" }
+]

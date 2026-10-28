@@ -1,0 +1,9 @@
+[
+    { "id": 1, "workspace_id": 1, "employee_id": 1, "status": "confirmed", "time_slot": "morning", "booking_date": "2026-10-01" },
+    { "id": 2, "workspace_id": 1, "employee_id": 2, "status": "new", "time_slot": "afternoon", "booking_date": "2026-10-10" },
+    { "id": 3, "workspace_id": 1, "employee_id": 3, "status": "cancelled", "time_slot": "full_day", "booking_date": "2026-10-15" },
+    { "id": 4, "workspace_id": 2, "employee_id": 4, "status": "confirmed", "time_slot": "full_day", "booking_date": "2026-09-28" },
+    { "id": 5, "workspace_id": 2, "employee_id": 5, "status": "new", "time_slot": "morning", "booking_date": "2026-10-12" },
+    { "id": 6, "workspace_id": 2, "employee_id": 6, "status": "confirmed", "time_slot": "afternoon", "booking_date": "2026-10-25" },
+    { "id": 7, "workspace_id": 3, "employee_id": 1, "status": "new", "time_slot": "morning", "booking_date": "2026-10-08" }
+]
